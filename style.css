@@ -1,0 +1,46 @@
+.about{
+    background-color: black;
+    display: flex;
+    padding: 50px;
+    margin: 70px;
+    gap: 50px;
+    justify-content: center;
+    
+}
+.marg{
+    margin-bottom: 45px;
+    padding: 40px;
+}
+.about h1{
+    color: white;
+font-size: 70px;
+}
+h4{
+    font-size: 25px;
+}
+.about p{
+    color: white;
+}
+.about h4{
+    color: white;
+}
+ span{
+    color: red;
+ }
+ p{
+    font-size: 20px;
+ }
+.border-r-10{
+    border-radius: 10px;
+    border :2px solid red;
+    box-shadow: 0 0 5px red,
+                0 0 25px red;
+}
+.btn{
+    background-color: black;
+    color: red;
+    padding: 15px 20px;
+   
+}
+
+
